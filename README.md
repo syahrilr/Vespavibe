@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Nama:
+Syahril Ramadhan
 
-## Getting Started
+Posisi:
+Junior Web Developer (C)
 
-First, run the development server:
+Program:
+VSGA DIGITALENT
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Deskripsi Tugas:
+Sebagai seorang web Developer, anda diminta untuk membuat sebuah website untuk  club motor dengan tampilan (terlampir). Buatlah company profile dengan  contoh tampilan terlampir, anda harus merancang materi atau bahan,  kata-kata dan informasi tentang Company Profile. Company berisi tentang  dibawah ini :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Cover depan (wajib)
+    Berisi judul atau nama perusahaan 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Kata pengantar (Optional)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. About us atau tentang kami atau sejarah singkat (wajib)
+    Berisi tentang perusahaan anda, bagaimana sejarah perusahaan anda  berdiri. Perusahaan anda bergerak dibidang apa dan lain-
+    lainnya. Silahkan anda meramu kata-kata yang tepat
 
-## Learn More
+4. Visi Misi :
+     Hampir semua company pasti ada Visi Misi Perusahaan. Hal ini agar pembaca tau target Visi dan Misi Perusahaan anda. Cara 
+     membuat Visi Misi, silahkan cari di Google.
 
-To learn more about Next.js, take a look at the following resources:
+5. Profile, Pengalaman Perusahaan dan Kelebihan Perusahaan 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+6. Produk / Jasa Perusahaan (wajib)
+    Bagian ini yang terpenting, menjelaskan apa yang perusahaan anda  tawarkan seperti menjual produk apa saja dan menjual jasa apa 
+    saja. Hal ini wajib ditulis di Company Profile website anda. 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+7. Gallery Foto (Wajib)
 
-## Deploy on Vercel
+8. Daftar Klien (Wjib)
+    Tidak penting tapi fungsinya besar sekali. Halaman klien berguna  untuk menarik perhatian pembaca/calon klien. Jika perusahaan 
+    anda banyak klien pasti calon klien baru lebih percaya akan reputasi anda. Halaman  klien di Company Profile bisa berupa daftar nama 
+    klien / nama perusahaan klien / logo perusahaan klien saja. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+9. Kontak Kami (wajib)
+    Informasi kontak alamat, no telepon, fax, email dll.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+10. Artikel 
+      Halaman lainnya yang ada di sebuah Company Profile yaitu kumpulan artikel yang terkait dengan produk
+
+11. Event, Kumpulan kegiatan perusahaan 
+
+
+Kontak:
+Jika ada pertanyaan atau keterangan lebih lanjut mengenai tugas saya, silakan hubungi saya melalui:
+
+Email: syahrilramadhan754@gmail.com
+
+
+Terima kasih!
